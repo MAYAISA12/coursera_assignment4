@@ -2,4 +2,4 @@
 Module Solution to Week 5
 <br>
 <p>To see ouput:</p>
-<a href="https://mayaisa12.github.io/coursera_assignment4/"><h1>CLICK HERE</h1></a>
+<a href="https://mayaisa12.github.io/coursera_assignment4/" target="_blank"><strong>CLICK HERE</strong></a>
